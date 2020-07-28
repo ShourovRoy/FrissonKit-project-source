@@ -1,0 +1,64 @@
+/*google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+
+/*my code or css */
+.nav-logo{
+    font-family: 'Rowdies', cursive;
+    font-size: 23px;
+}
+
+.nav-link{
+    font-weight: 500;
+}
+
+
+#heroSection{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(https://cdn.pixabay.com/photo/2012/08/27/14/19/evening-55067_960_720.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#heroSection h1{
+    font-size: 51px;
+}
+
+.btn:hover{
+    margin-left: 0px;
+}
+
+#myForm .btn{
+    width: 100% !important;
+    border: none;
+}
+
+.form-container{
+    border-radius: 6px;
+}
+
+.card{
+    border: 0.9px solid #FF8A80;
+    padding-bottom: 35px !important;
+}
+
+
+.fa-html5{
+    font-size: 29px;  
+    color: #dfa813;
+}
+
+.card-btn{
+    margin-left: 0 !important;
+}
+
+
+
+.spece{
+    padding: 6px 0;
+}
+
+
+.mySocal{
+    padding: 5px 4px;
+    font-size: 23px !important;
+}
